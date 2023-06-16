@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume-kostiuk-volodymyr/static/css/main.e777dfdd.css",
+    "main.js": "/resume-kostiuk-volodymyr/static/js/main.600b3d2a.js",
+    "static/media/im.jpg": "/resume-kostiuk-volodymyr/static/media/im.fa61d2c83caaf628259a.jpg",
+    "index.html": "/resume-kostiuk-volodymyr/index.html",
+    "main.e777dfdd.css.map": "/resume-kostiuk-volodymyr/static/css/main.e777dfdd.css.map",
+    "main.600b3d2a.js.map": "/resume-kostiuk-volodymyr/static/js/main.600b3d2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e777dfdd.css",
+    "static/js/main.600b3d2a.js"
+  ]
+}
